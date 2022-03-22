@@ -11,3 +11,6 @@ Label data using [labelme](https://github.com/wkentaro/labelme).
 - Model selection. 
 - Applying agumentation on the data.
 - Train Yolov4 model.
+
+
+![alt text](https://github.com/Aliaa-Ahmed/AI-and-Data-Science/blob/master/Computer%20vision/Tennis%20object%20detection/sample%20output.png)
